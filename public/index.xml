@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BCA PDF Hub</title>
+    <link>http://localhost:1313/bca-pdf-hub/</link>
+    <description>Recent content on BCA PDF Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/bca-pdf-hub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mera Pehla Hugo Blog</title>
+      <link>http://localhost:1313/bca-pdf-hub/posts/my-first-post/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bca-pdf-hub/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;swagat-hai-aapka-mere-blog-par&#34;&gt;Swagat hai aapka mere blog par!&lt;/h1&gt;&#xA;&lt;p&gt;Yeh meri pehli post hai jo maine &lt;strong&gt;Hugo&lt;/strong&gt; aur &lt;strong&gt;GitHub&lt;/strong&gt; ka use karke banayi hai.&lt;/p&gt;&#xA;&lt;h2 id=&#34;maine-kya-kya-seekha&#34;&gt;Maine kya-kya seekha:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hugo ka local server kaise chalate hain (&lt;code&gt;hugo server&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Markdown mein formatting kaise karte hain.&lt;/li&gt;&#xA;&lt;li&gt;Ab bas ise GitHub par push karna baaki hai!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Static sites fast hoti hain, aur Hugo unmein sabse best hai.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Main jaldi hi aur bhi posts likhunga. Tab tak ke liye, Happy Coding! 🚀&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

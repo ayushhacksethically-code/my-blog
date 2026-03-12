@@ -1,7 +1,6 @@
 baseURL = 'https://ayushhacksethically-code.github.io/bca-pdf-hub/' # Yahan apne GitHub Pages ka URL dalein
 languageCode = 'en-us'
 title = 'BCA PDF Hub' # Yahan apni site ka asli naam likhein
-theme = 'ananke'
 
 # Agar aap chahte hain ki aapki site ka navigation menu bhi set ho jaye:
 [menus]
